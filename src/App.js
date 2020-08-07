@@ -18,7 +18,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Everybody makes a counter. It's silly.</h1>
+      <h1>Everybody makes a counter. It's crummy.</h1>
       <h2>Current Count: {count}</h2>
       <button onClick={increase}>Increase!!</button>
       <button onClick={decrease}>Decrease!!</button>
